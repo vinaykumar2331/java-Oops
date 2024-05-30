@@ -87,6 +87,14 @@ import java.util.Random;
             for(int j=1;j<=e;j++){
                 System.out.println(j+"\u00b2"+" = "+Math.pow(j,2));
             }
+             System.out.println("-------------harmonic number----------------------------------");
+            int harmonic = 5;
+            double sum = 0;
+            for(int i = 1;i<=harmonic;i++){
+                sum=sum+(1.0/i);
+                System.out.println(1+"/"+i+"="+sum);
+            }
+            System.out.println("The nth harmonic number is --> "+sum);
         }
     }
 
