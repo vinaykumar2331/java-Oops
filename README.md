@@ -26,7 +26,7 @@ java-Oops/
 - ✅ **Inheritance**: Demonstrating base and derived classes
 - ✅ **Polymorphism**: Method overloading and overriding
 
-### 🔹 Utility & Practice Programs (in `programes.java`)
+### 🔹 Utility & Practice Programs (in `Programes.java`)
 - Coin toss simulation
 - Leap year check
 - Finding factors of a number
@@ -61,21 +61,8 @@ java-Oops/
 
 > Make sure your terminal is in the `src` directory so the package paths resolve correctly.
 
-## 📌 Recommended Changes
-
-- 📛 Consider renaming `programes.java` → `Programs.java` (for correct English spelling and naming convention).
-- 🔒 Keep classes public and each in its own file for better modularity (especially for OOP examples).
-
 ## 🧠 Ideal For
 
 - Java beginners learning OOP
 - Students practicing for exams or interviews
 - Quick revision of Java fundamentals through examples
-
-## 🤝 Contributions
-
-Contributions and suggestions are welcome! Feel free to fork the repo, submit pull requests, or raise issues.
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
