@@ -24,7 +24,62 @@ java-Oops/
 - ✅ **Abstraction**: Using abstract classes and/or interfaces
 - ✅ **Encapsulation**: Using private fields and public getters/setters
 - ✅ **Inheritance**: Demonstrating base and derived classes
-- ✅ **Polymorphism**: Method overloading and overriding
+  
+Each file in this section demonstrates one of the four main Object-Oriented Programming principles using Java.
+
+---
+
+#### 🧱 Abstraction (`abstraction.java`)
+
+Demonstrates:
+- Abstract classes and methods
+- Real-world examples with:
+  - `animal` class and subclasses `lion` and `tiger`
+  - `shape` class and subclasses `circle`, `Triangle`
+  - `Bank` class and subclasses `SavingsAccount`, `CurrentAccount`
+
+Key Concepts:
+- Abstract methods must be implemented by subclasses.
+- You cannot instantiate abstract classes.
+
+---
+
+#### 🔐 Encapsulation (`encapsulation.java`)
+
+Demonstrates:
+- Using private variables and public getters/setters for data hiding
+- Examples:
+  - `person`, `BankAccount`, `Rectangle`, `Employee`, `Car`, `Student`, and `Circle_` classes
+
+Key Concepts:
+- Encapsulation protects internal data by exposing controlled access via getter and setter methods.
+- Promotes modularity and maintainability.
+
+---
+
+#### 🧬 Inheritance (`inheritance.java`)
+
+Demonstrates:
+- Single-level inheritance with classes `father` → `childern`
+- Method overriding with `Animal` and `Cat` classes
+
+Key Concepts:
+- Subclasses inherit fields and methods from their parent classes.
+- Overriding allows a subclass to provide a specific implementation of a method.
+
+---
+
+#### 🔁 Polymorphism (`polymorphism.java`)
+
+Demonstrates:
+- **Compile-time Polymorphism (Method Overloading)** — not present directly but can be extended
+- **Run-time Polymorphism (Method Overriding)** using:
+  - `Animalfamily` → `bird`, `cat_`
+  - `shapes` → `circle_shape`, `rectangle`
+
+Key Concepts:
+- Polymorphism allows the same method to behave differently depending on the object calling it.
+- Enhances flexibility and reusability of code.
 
 ### 🔹 Utility & Practice Programs (in `Programes.java`)
 - Coin toss simulation
