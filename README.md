@@ -38,8 +38,21 @@ java-Oops/
 - Printing squares (power of 2)
 - Harmonic number series
 
-### 🔹 Input Handling
-- Getting user input using `Scanner` class (`user_input.java`)
+### 🔹 Input Handling (in `user_input.java`)
+The `user_input.java` file demonstrates usage of the `Scanner` class to take various types of user input and perform basic operations like:
+
+- Name confirmation loop
+- Sum and product of integers
+- Rectangle area calculation
+- Printing user profile (name, roll number, interest)
+- Square of a number
+- Concatenating strings
+- Perimeter of a square
+- Equality check among three numbers
+- Condition checking using `if-else`
+- Marks input with validation (max 100 per subject)
+- Percentage calculation
+
 
 ## ▶️ How to Run the Programs
 
